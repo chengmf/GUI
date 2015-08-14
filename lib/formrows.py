@@ -1,5 +1,5 @@
 """"
-create a label+entry row frame, with optional file open browse button;
+create a label+entry+button row frame, with optional file open browse button;
 this is a separate module because it can save code in other programs too;
 caller (or callbacks here): retain returned linked var while row is in use;
 """
